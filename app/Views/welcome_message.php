@@ -15,7 +15,7 @@
   </head>
   <body>
   <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-  <div class="container-fluid">
+  <div class="container">
     <a class="navbar-brand" href="#">UNPAB</a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
@@ -32,9 +32,11 @@
 </nav>
 <!-- jumbotron  -->
 <section class="jumbotron">
-	<img src="public/asset/image/logo unpab.png" alt="unpab">
-	<h1 class="display-4">UNIVERSITAS PANCABUDI</h1>
-	<p class="lead">This is a simple hero unit, a simple jumbotron-style component for calling extra attention to featured content or information.</p>
+	<div class="container">
+		<img src="<?= base_url('asset/image/logo-unpab.png'); ?>" alt="unpab" width="160">
+		<h4 class="display-4">UNIVERSITAS PANCABUDI</h4>
+	</div>	
+	<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320"><path fill="#ffffff" fill-opacity="1" d="M0,160L34.3,165.3C68.6,171,137,181,206,176C274.3,171,343,149,411,138.7C480,128,549,128,617,138.7C685.7,149,754,171,823,181.3C891.4,192,960,192,1029,176C1097.1,160,1166,128,1234,101.3C1302.9,75,1371,53,1406,42.7L1440,32L1440,320L1405.7,320C1371.4,320,1303,320,1234,320C1165.7,320,1097,320,1029,320C960,320,891,320,823,320C754.3,320,686,320,617,320C548.6,320,480,320,411,320C342.9,320,274,320,206,320C137.1,320,69,320,34,320L0,320Z"></path></svg>
 </section>
 <!-- akhir jumbotron -->
 
