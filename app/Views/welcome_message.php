@@ -15,7 +15,7 @@
   <body>
   <nav class="navbar fixed-top navbar-expand-lg navbar-dark bg-dark">
   <div class="container">
-    <a class="navbar-brand" href="#">UNPAB</a>
+    <a class="navbar-brand" href="#">HOME</a>
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
@@ -44,9 +44,25 @@
 </section>
 <!-- akhir jumbotron -->
 
+<!-- visi unpab -->
+<section>
+  <div class="container text-center">
+    <div class="card">
+      <div class="card-body">
+        <h3 class="card-title">Visi Universitas</h3>
+        <h6 class="card-subtitle mb-2 text-muted">Membangun Desa, Membangun Indonesia.</h6>
+        <p class="card-text">Desa merupakan garda terdepan dalam tolak ukur perkembangan Indonesia. Sehingga sudah selayaknya semangat dan energi pembangunan dikerahkan dari dan oleh pedesaan. Sebab dengan memulai dari desa, seluruh lapisan masyarakat akan dapat merasakan dampak dan kebaikan dari pembangunan. Kini sudah saatnya para insan terdidik bergerak aktif mengambil peran.</p>
+      </div>
+    </div>
+  </div>
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320"><path fill="#e2edff" fill-opacity="1" d="M0,32L34.3,74.7C68.6,117,137,203,206,224C274.3,245,343,203,411,202.7C480,203,549,245,617,234.7C685.7,224,754,160,823,138.7C891.4,117,960,139,1029,170.7C1097.1,203,1166,245,1234,240C1302.9,235,1371,181,1406,154.7L1440,128L1440,320L1405.7,320C1371.4,320,1303,320,1234,320C1165.7,320,1097,320,1029,320C960,320,891,320,823,320C754.3,320,686,320,617,320C548.6,320,480,320,411,320C342.9,320,274,320,206,320C137.1,320,69,320,34,320L0,320Z"></path></svg>
+</section>
+
+<!-- akhir visi unpab -->
+
 <!-- about -->
-<section id="about">
-  <div class="container">
+<section id="about" style="background-color: #e2edff;">
+  <div class="container" >
     <div class="row">
       <div class="col text-center">
         <h2>Tentang Unpab</h2>
@@ -54,24 +70,24 @@
     </div>
     <div class="row">
       <div class="col">
-        <h3>Awal Mula Berdiri (1956)</h3>
+        <h4>Awal Mula Berdiri (1956)</h4>
         <p>Universitas Pembangunan Panca Budi semula berdiri dengan nama Akademi Metafisika, di bawah naungan Yayasan Akademi Metafisika. Didirikan pada tanggal 27 November 1956, oleh Prof. Dr. H. Kadirun Yahya, seorang veteran militer dan cendikiawan, ahli di bidang fisika dan kimia dan menguasai beberapa bahasa yaitu bahasa Inggris, Jerman dan Belanda, serta ahli di bidang ilmu filsafat spiritual.</p>
       </div>
     </div>
     <div class="row">
-      <h3>Berganti Nama (1961)</h3>
+      <h4>Berganti Nama (1961)</h4>
       <p>Akademi Metafisika berubah menjadi Universitas Pembangunan Panca Budi dan tanggal 19 Desember 1961 ditetapkan sebagai tanggal berdirinya Universitas Pembangunan Panca Budi</p>
     </div>
     <div class="row">
-      <h3>Mulai menggunakan Sistem E-Learning (2013)</h3>
+      <h4>Mulai menggunakan Sistem E-Learning (2013)</h4>
       <p>Pembelajaran sistem daring UNPAB mulai beroperasi</p>
     </div>
     <div class="row">
-      <h3>Peleburan 7 Fakultas Menjadi 4 Fakultas (2017)</h3>
+      <h4>Peleburan 7 Fakultas Menjadi 4 Fakultas (2017)</h4>
       <p>Yakni Fakultas Agama Islam dan Humaniora, Fakultas Sains dan Teknologi, Fakultas Sosial Sains dan Program Pascasarjana.</p>
     </div>
     <div class="row">
-      <h3>Dimulainya Program Berbasis Pengabdian Masyarakat (2020)</h3>
+      <h4>Dimulainya Program Berbasis Pengabdian Masyarakat (2020)</h4>
       <p>Program ini kemudian dikenal sebagai "Membangun Desa, Membangun Indonesia.</p>
     </div>
   </div>
