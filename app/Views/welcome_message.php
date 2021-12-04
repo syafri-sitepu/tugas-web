@@ -12,17 +12,17 @@
 
     <title>Universitas Pancabudi</title>
   </head>
-  <body>
+  <body id="home">
     <nav class="navbar fixed-top navbar-expand-lg navbar-dark bg-dark">
       <div class="container">
-        <a class="navbar-brand" href="#">HOME</a>
+        <a class="navbar-brand" href="#home">HOME</a>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
           </button>
         <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
           <div class="navbar-nav">
-            <a class="nav-link active" aria-current="page" href="#">TENTANG UNPAB</a>
-            <a class="nav-link" href="#">PENDIDIKAN</a>
+            <a class="nav-link active" aria-current="page" href="#about">TENTANG UNPAB</a>
+            <a class="nav-link" href="#pendidikan">PENDIDIKAN</a>
             <a class="nav-link" href="#">ORGANISASI</a>
             <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
           </div>
@@ -95,7 +95,7 @@
     <!-- akhir about -->
 
     <!-- pendidikan -->
-    <section>
+    <section id="pendidikan">
       <div class="container">
         <div class="text-center">
           <h2>PENDIDIKAN</h2>
@@ -161,6 +161,10 @@
       </div>
     </section>
     <!-- akhir pendidikan -->
+
+    <!-- footer -->
+    <footer></footer>
+    <!-- akhir footer -->
 
 
 
