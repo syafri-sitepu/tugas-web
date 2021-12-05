@@ -6,13 +6,17 @@
     padding-top: 5rem; 
     background-color: #e2edff;
 }
+.organisasi {
+  padding-top: 5rem; 
+  background-color: #e2edff;
+}
+html,
 html,
 body {
   height: 100%;
 }
 
 body {
-  display: flex;
   align-items: center;
   padding-top: 40px;
   padding-bottom: 40px;

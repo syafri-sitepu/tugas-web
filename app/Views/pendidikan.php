@@ -14,12 +14,12 @@
   </head>
   <body id="home">
     <?= $this->include('component/navbar');?>
-    <section id="pendidikan">
+    <section Class="pendidikan">
       <div class="container">
         <div class="text-center">
           <h2>PENDIDIKAN</h2>
         </div>
-        <div class="card mb-3">
+        <div class="pendidikan card mb-3">
           <div class="row g-0">
             <div class="col-md-4">
               <img src="<?= base_url('assets/image/fakultas.jpg'); ?>" alt="unpab" width="380">

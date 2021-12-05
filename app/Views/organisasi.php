@@ -13,8 +13,66 @@
     <title>Universitas Pancabudi</title>
   </head>
   <body id="home">
+    <section class="organisasi">
     <?= $this->include('component/navbar');?>
-    organisasi
+    <div class="container">
+      <div class="text-center">
+        <h2>Akativitas Sivitas Akademika</h2>
+      </div>
+      <div class="row row-cols-1 row-cols-md-3 g-4">
+        <div class="col">
+          <div class="card">
+            <img src="<?= base_url('assets/image/webinar-1.jpeg'); ?>" alt="unpab" width=>
+            <div class="card-body">
+              <h5 class="card-title">Card title</h5>
+              <p class="card-text"></p>
+              <a href="#" class="btn btn-primary">daftar</a>
+            </div>
+          </div>
+        </div>
+        <div class="col">
+          <div class="card">
+            <img src="<?= base_url('assets/image/webinar-2.jpeg'); ?>" alt="unpab" width=>
+            <div class="card-body">
+              <h5 class="card-title">Card title</h5>
+              <p class="card-text"></p>
+              <a href="#" class="btn btn-primary">daftar</a>
+            </div>
+          </div>
+        </div>
+        <div class="col">
+          <div class="card">
+            <img src="<?= base_url('assets/image/webinar-3.jpeg'); ?>" alt="unpab" width=>
+            <div class="card-body">
+              <h5 class="card-title">Card title</h5>
+              <p class="card-text"></p>
+              <a href="#" class="btn btn-primary">daftar</a>
+            </div>
+          </div>
+        </div>
+        <div class="col">
+          <div class="card">
+            <img src="<?= base_url('assets/image/webinar-4.jpeg'); ?>" alt="unpab" width=>
+            <div class="card-body">
+              <h5 class="card-title">Card title</h5>
+              <p class="card-text"></p>
+              <a href="#" class="btn btn-primary">daftar</a>
+            </div>
+          </div>
+        </div>
+        <div class="col">
+          <div class="card">
+            <img src="<?= base_url('assets/image/webinar-5.jpeg'); ?>" alt="unpab" width=>
+            <div class="card-body">
+              <h5 class="card-title">Card title</h5>
+              <p class="card-text"></p>
+              <a href="#" class="btn btn-primary">daftar</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    </section>
     <!-- footer -->
     <footer></footer>
     <!-- akhir footer -->

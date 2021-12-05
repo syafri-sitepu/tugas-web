@@ -8,7 +8,7 @@
           <div class="navbar-nav">
             <a class="nav-link active" aria-current="page" href="/">TENTANG UNPAB</a>
             <a class="nav-link" href="/pendidikan">PENDIDIKAN</a>
-            <a class="nav-link" href="/organisasi">ORGANISASI</a>
+            <a class="nav-link" href="/organisasi">KEGIATAN</a>
             <a class="nav-link" href="/login">login</a>
           </div>
         </div>
