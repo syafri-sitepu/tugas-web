@@ -144,7 +144,9 @@
     <!-- akhir pendidikan -->
 
     <!-- footer -->
-    <footer></footer>
+    <footer>
+      <p></p>
+    </p></footer>
     <!-- akhir footer -->
 
 
