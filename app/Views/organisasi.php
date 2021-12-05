@@ -34,7 +34,7 @@
           <div class="card">
             <img src="<?= base_url('assets/image/webinar-2.jpeg'); ?>" alt="unpab" width=>
             <div class="card-body">
-              <h5 class="card-title">Card title</h5>
+              <h5 class="card-title">Title</h5>
               <p class="card-text"></p>
               <a href="#" class="btn btn-primary">daftar</a>
             </div>
