@@ -14,7 +14,7 @@
   </head>
   <body id="home">
     <?= $this->include('component/navbar');?>
-    pendidikan
+    
     <!-- footer -->
     <footer></footer>
     <!-- akhir footer -->
