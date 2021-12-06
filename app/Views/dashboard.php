@@ -144,9 +144,9 @@
     <!-- akhir pendidikan -->
 
     <!-- footer -->
-    <footer class="text-light bg-dark">
+    <footer class="text-info bg-dark">
       <div class="container">
-        <h4>Create by</h4>
+        <h4>Created by</h4>
         <p>mhd. syafri sitepu</p>
         <p>devi arum sari</p>
         <p>eli emawati br sitepu</p>
