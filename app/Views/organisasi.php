@@ -26,7 +26,7 @@
             <div class="card-body">
               <h5 class="card-title">Urgensi Pembentukan Satgas Pencegahan Pelecehan Seksual di Limgkungan UNPAB</h5>
               <p class="card-text"></p>
-              <a href="#" class="btn btn-primary">daftar</a>
+              
             </div>
           </div>
         </div>
@@ -36,7 +36,7 @@
             <div class="card-body">
               <h5 class="card-title">Meningkakan Kreatifitas, Inovasi, dan Potensi Mahasiswa Melalui PKM Pasca Pandemi</h5>
               <p class="card-text"></p>
-              <a href="#" class="btn btn-primary">daftar</a>
+              
             </div>
           </div>
         </div>
@@ -46,7 +46,7 @@
             <div class="card-body">
               <h5 class="card-title">Hidroponik, Solusi Lahan Pertanian Perkotaan</h5>
               <p class="card-text"></p>
-              <a href="#" class="btn btn-primary">daftar</a>
+              
             </div>
           </div>
         </div>
@@ -56,7 +56,7 @@
             <div class="card-body">
               <h5 class="card-title">Edukasi Teknologi Informasi Sebagai Solusi Untuk Mitigasi Bencana</h5>
               <p class="card-text"></p>
-              <a href="#" class="btn btn-primary">daftar</a>
+              
             </div>
           </div>
         </div>
@@ -66,7 +66,7 @@
             <div class="card-body">
               <h5 class="card-title">Membangun Kreativitas Mahasiswa Melalui PKM di Masa Pandemi</h5>
               <p class="card-text"></p>
-              <a href="#" class="btn btn-primary">daftar</a>
+              
             </div>
           </div>
         </div>
