@@ -146,10 +146,7 @@
     <!-- footer -->
     <footer class="text-info bg-dark">
       <div class="container">
-        <h4>Created by</h4>
-        <p>mhd. syafri sitepu</p>
-        <p>devi arum sari</p>
-        <p>eli emawati br sitepu</p>
+        
       </div>
     </p></footer>
     <!-- akhir footer -->
