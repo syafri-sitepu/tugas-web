@@ -19,7 +19,7 @@
         <div class="text-center">
           <h2>PENDIDIKAN</h2>
         </div>
-        <div class="pendidikan card mb-3">
+        <div class="pendidikan card mb-">
           <div class="row g-0">
             <div class="col-md-4">
               <img src="<?= base_url('assets/image/fakultas.jpg'); ?>" alt="unpab" width="380">
@@ -80,7 +80,7 @@
       </div>
     </section>
     <!-- footer -->
-    <footer class="text-info bg-dark">
+    <footer class="text-info bg-dark pt-3">
       <div class="container">
         <div class="row">
           <div class="col">

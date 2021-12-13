@@ -35,6 +35,7 @@ $routes->get('/', 'Home::index');
 $routes->get('/pendidikan', 'Home::pendidikan');
 $routes->get('/organisasi', 'Home::organisasi');
 $routes->get('/login', 'Home::login');
+$routes->get('/fasilitas', 'Home::fasilitas');
 /*
  * --------------------------------------------------------------------
  * Additional Routing

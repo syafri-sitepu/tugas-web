@@ -9,6 +9,7 @@
             <a class="nav-link active" aria-current="page" href="/">TENTANG UNPAB</a>
             <a class="nav-link" href="/pendidikan">PENDIDIKAN</a>
             <a class="nav-link" href="/organisasi">KEGIATAN</a>
+            <a class="nav-link" href="/fasilitas">FASILITAS</a>
             
           </div>
         </div>

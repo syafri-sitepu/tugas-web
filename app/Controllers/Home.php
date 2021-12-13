@@ -20,4 +20,8 @@ class Home extends BaseController
     {
         return view('login');
     }
+    public function fasilitas()
+    {
+        return view('fasilitas');
+    }
 }

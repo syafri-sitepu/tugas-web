@@ -25,7 +25,9 @@
             <img src="<?= base_url('assets/image/webinar-1.jpeg'); ?>" alt="unpab" width=>
             <div class="card-body">
               <h5 class="card-title">Urgensi Pembentukan Satgas Pencegahan Pelecehan Seksual di Limgkungan UNPAB</h5>
-              <p class="card-text"></p>
+              <p class="card-text">Narasumber : Dr. Marzuki Sinambela, M.T </p>
+              <p class="card-text">Tanggal : 4 Desember 2021 </p>
+              <p class="card-text">Jam : 09.00 WIB - Selesai </p>
               
             </div>
           </div>
@@ -35,7 +37,9 @@
             <img src="<?= base_url('assets/image/webinar-2.jpeg'); ?>" alt="unpab" width=>
             <div class="card-body">
               <h5 class="card-title">Meningkakan Kreatifitas, Inovasi, dan Potensi Mahasiswa Melalui PKM Pasca Pandemi</h5>
-              <p class="card-text"></p>
+              <p class="card-text">Narasumber : Ibnu Ubaidillah (kak ubai)</p>
+              <p class="card-text">Tanggal : 22 Desember 2021 </p>
+              <p class="card-text">Jam : 13.00 WIB - Selesai </p>
               
             </div>
           </div>
@@ -45,7 +49,9 @@
             <img src="<?= base_url('assets/image/webinar-3.jpeg'); ?>" alt="unpab" width=>
             <div class="card-body">
               <h5 class="card-title">Hidroponik, Solusi Lahan Pertanian Perkotaan</h5>
-              <p class="card-text"></p>
+              <p class="card-text">Narasumber : T. Henny Harumi, S.Kom., M.Kom</p>
+              <p class="card-text">Tanggal : 16 November 2021 </p>
+              <p class="card-text">Jam : 14.00 WIB - Selesai </p>
               
             </div>
           </div>
@@ -55,7 +61,9 @@
             <img src="<?= base_url('assets/image/webinar-4.jpeg'); ?>" alt="unpab" width=>
             <div class="card-body">
               <h5 class="card-title">Edukasi Teknologi Informasi Sebagai Solusi Untuk Mitigasi Bencana</h5>
-              <p class="card-text"></p>
+              <p class="card-text">Narasumber : Dr. Marzuki Sinambela, M.T </p>
+              <p class="card-text">Tanggal : 31 Agustus 2021 </p>
+              <p class="card-text">Jam : 12.00 WIB - Selesai </p>
               
             </div>
           </div>
@@ -65,7 +73,9 @@
             <img src="<?= base_url('assets/image/webinar-5.jpeg'); ?>" alt="unpab" width=>
             <div class="card-body">
               <h5 class="card-title">Membangun Kreativitas Mahasiswa Melalui PKM di Masa Pandemi</h5>
-              <p class="card-text"></p>
+              <p class="card-text">Narasumber : Mei Ryan Sandi, S.P </p>
+              <p class="card-text">Tanggal : 13 November 2021 </p>
+              <p class="card-text">Jam : 10.00 WIB - Selesai </p>
               
             </div>
           </div>
