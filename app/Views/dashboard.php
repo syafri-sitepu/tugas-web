@@ -25,9 +25,27 @@
     </section>
     <!-- akhir jumbotron -->
 
+
+    <!-- ucapan rektor -->
+    <div class="jumbotron-fluid bg-white">
+      <div class="container">
+        <div class="row">
+          <div class="col">
+            <img src="<?= base_url('assets/image/rektor.png'); ?>" alt="unpab" width="380">
+          </div>
+          <div class="col">
+            <h1 class="display-4">Sambutan Rektor</h1>
+            <h3 class="display-4">Dr. H. Muhammad Isa Indrawan, S.E, M.M</h3>
+            <p class="lead">Yuk, mari turut serta berperan meningkatkan dan menjaga pemanfaatan sumber daya alam dan sumber daya manusia yang berkualitas dalam pengembangan ilmu pengetahuan, penelitian dan pengabdian pada masyarakat.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- akhir ucapan rektor -->
+
     <!-- visi unpab -->
-    <section>
-      <div class="container text-center">
+    <section class="bg-white">
+      <div class="container text-center pt-5">
         <div class="card">
           <div class="card-body">
             <h3 class="card-title">Visi Universitas</h3>
@@ -72,16 +90,17 @@
           <p>Program ini kemudian dikenal sebagai "Membangun Desa, Membangun Indonesia.</p>
         </div>
       </div>
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320"><path fill="#ffffff" fill-opacity="1" d="M0,160L34.3,165.3C68.6,171,137,181,206,176C274.3,171,343,149,411,138.7C480,128,549,128,617,138.7C685.7,149,754,171,823,181.3C891.4,192,960,192,1029,176C1097.1,160,1166,128,1234,101.3C1302.9,75,1371,53,1406,42.7L1440,32L1440,320L1405.7,320C1371.4,320,1303,320,1234,320C1165.7,320,1097,320,1029,320C960,320,891,320,823,320C754.3,320,686,320,617,320C548.6,320,480,320,411,320C342.9,320,274,320,206,320C137.1,320,69,320,34,320L0,320Z"></path></svg>
     </section>
     <!-- akhir about -->
 
     <!-- pendidikan -->
-    <section id="pendidikan">
+    <section class="pendidikan bg-white">
       <div class="container">
         <div class="text-center">
           <h2>PENDIDIKAN</h2>
         </div>
-        <div class="card mb-3">
+        <div class="card mb-">
           <div class="row g-0">
             <div class="col-md-4">
               <img src="<?= base_url('assets/image/fakultas.jpg'); ?>" alt="unpab" width="380">
@@ -144,9 +163,35 @@
     <!-- akhir pendidikan -->
 
     <!-- footer -->
-    <footer class="text-info bg-dark">
+    <footer class="text-info bg-dark pt-3">
       <div class="container">
-        
+        <div class="row">
+          <div class="col">
+            <h4>UNIVERSITAS PEMBANGUNAN PANCA BUDI</h4>
+            <p>Universitas Pembangunan Panca Budi adalah Perguruan Tinggi tertua di Kota Medan yang memiliki spirit Tamadun Mandiri, yaitu spirit yang menggabungkan nilai-nilai tradisional dan modern.</p>
+          </div>
+          <div class="col">
+            <h4>LAYANAN DIGITAL</h4>
+            <p>Penerimaan Mahasiswa Baru</p>
+            <p>Portal Mahasiswa</p>
+            <p>Portal Dosen</p>
+            <p>E-Learning</p>
+          </div>
+          <div class="col">
+            <h4>Pendidikan</h4>
+            <p>Program Pasca Sarjana</p>
+            <p>Fakultas Agama & Humaniora</p>
+            <p>Fakultas Sosial Sains</p>
+            <p>Fakultas Sains & Teknologi</p>
+          </div>
+          <div class="col-md-4">
+            <h4>KONTAK</h4>
+            <p>Jl. Jend. Gatot Subroto KM 4.5 Sei Sikambing. Medan. Indonesia</p>
+            <p>Medan ~ Sumatera Utara ~ Indonesia</p>
+            <p>Telp. 061 845 5571</p>
+            <p>Email. Unpab@Pancabudi.Ac.Id</p>
+          </div>
+        </div>
       </div>
     </p></footer>
     <!-- akhir footer -->

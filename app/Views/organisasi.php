@@ -61,7 +61,7 @@
           </div>
         </div>
         <div class="col">
-          <div class="card">
+          <div class="card mb-3">
             <img src="<?= base_url('assets/image/webinar-5.jpeg'); ?>" alt="unpab" width=>
             <div class="card-body">
               <h5 class="card-title">Membangun Kreativitas Mahasiswa Melalui PKM di Masa Pandemi</h5>
@@ -74,7 +74,37 @@
     </div>
     </section>
     <!-- footer -->
-    <footer></footer>
+    <footer class="text-info bg-dark pt-3">
+      <div class="container">
+        <div class="row">
+          <div class="col">
+            <h4>UNIVERSITAS PEMBANGUNAN PANCA BUDI</h4>
+            <p>Universitas Pembangunan Panca Budi adalah Perguruan Tinggi tertua di Kota Medan yang memiliki spirit Tamadun Mandiri, yaitu spirit yang menggabungkan nilai-nilai tradisional dan modern.</p>
+          </div>
+          <div class="col">
+            <h4>LAYANAN DIGITAL</h4>
+            <p>Penerimaan Mahasiswa Baru</p>
+            <p>Portal Mahasiswa</p>
+            <p>Portal Dosen</p>
+            <p>E-Learning</p>
+          </div>
+          <div class="col">
+            <h4>Pendidikan</h4>
+            <p>Program Pasca Sarjana</p>
+            <p>Fakultas Agama & Humaniora</p>
+            <p>Fakultas Sosial Sains</p>
+            <p>Fakultas Sains & Teknologi</p>
+          </div>
+          <div class="col-md-4">
+            <h4>KONTAK</h4>
+            <p>Jl. Jend. Gatot Subroto KM 4.5 Sei Sikambing. Medan. Indonesia</p>
+            <p>Medan ~ Sumatera Utara ~ Indonesia</p>
+            <p>Telp. 061 845 5571</p>
+            <p>Email. Unpab@Pancabudi.Ac.Id</p>
+          </div>
+        </div>
+      </div>
+    </p></footer>
     <!-- akhir footer -->
 
 
