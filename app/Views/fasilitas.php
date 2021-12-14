@@ -27,7 +27,7 @@
     <!-- akhir jumbotron -->
 
     <!-- fasilitas -->
-    <section>
+    <section class="" style="background-color: #e2edff">
         <div class="container pt-3">
             <div class="row">
                 <div class="col">
